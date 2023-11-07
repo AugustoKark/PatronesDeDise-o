@@ -10,7 +10,8 @@ Repositorio para proyecto sobre patrones de diseño
 - Builder
 - Chain of responsability
 
-Nota: Cada patrón se encuentra en su respectiva rama
+Nota: Cada patrón se encuentra en su respectiva rama y se ejecuta en el MAIN.PY
+
 
 ## Autor
 
