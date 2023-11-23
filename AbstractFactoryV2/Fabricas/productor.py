@@ -7,7 +7,9 @@ class Productor:
     def getFabrica(tipoFabrica):
       
         if tipoFabrica:
+            print("Fabrica de formas comunes seleccionada")
             return FabricaFormas()
         else:
+            print("Fabrica de formas redondeadas seleccionada")
             return FabricaFormasRedondeadas()
         
