@@ -3,11 +3,11 @@
 # from hamburguesa_pollo import HamburguesaPollo
 # from coca_cola import CocaCola
 # from pepsi import Pepsi
-from Productos.comida import Comida
-from Formas.Hamburgesa.hamburguesa_vegetariana import HamburguesaVegetariana
-from Formas.Hamburgesa.hamburguesa_pollo import HamburguesaPollo
-from Formas.BebidasFrias.coca_cola import CocaCola
-from Formas.BebidasFrias.pepsi import Pepsi
+from Comida.comida import Comida
+from Productos.Hamburgesa.hamburguesa_vegetariana import HamburguesaVegetariana
+from Productos.Hamburgesa.hamburguesa_pollo import HamburguesaPollo
+from Productos.BebidasFrias.coca_cola import CocaCola
+from Productos.BebidasFrias.pepsi import Pepsi
 
 class ConstructorComida:
     def preparar_comida_vegetariana(self):
